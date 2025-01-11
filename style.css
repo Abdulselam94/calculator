@@ -47,14 +47,16 @@ button {
 }
 
 .buttonP {
-    background-color: #1489bb;
+    background-color: #76848b;
 
 }
 
 .buttonE {
-    background-color: #0300bf;
+    background-color: #009cbf;
+    width: 240px;
+
 }
 
 .buttonCE {
-    background-color: #bf002d;
+    background-color: #dd1076;
 }
